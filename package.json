@@ -1,0 +1,22 @@
+{
+  "name": "clovity",
+  "version": "1.0.0",
+  "description": "Basic ECMA operations.",
+  "main": "./lib/utils.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clovity/utils.git"
+  },
+  "keywords": [
+    "utls"
+  ],
+  "author": "Clovity, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clovity/utils/issues"
+  },
+  "homepage": "https://github.com/clovity/utils#readme"
+}
